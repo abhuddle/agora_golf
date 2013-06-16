@@ -8,7 +8,7 @@ body {
 #body_content, #side_body_content {
   float: left;
   width: 45%;
-  background: white;
+  background: green;
   color: #333;
   padding: 20px;
 }
